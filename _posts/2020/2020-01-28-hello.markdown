@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Hello"
+date: "2020-01-28 00:49"
+---
+___
+
+
+Welcome to my first blog post. My roommate Tanner helped me create this website, I'm not entirely sure what it'll be used for yet. For now, however, it will be an outlet to dump my thoughts and projects into. I guess I should introduce myself. My name is Daniel and, at the moment, I am a fourth year at the University if Virginia. I hail from the Shenandoah Valley in Virginia. I study biology and global studies with a minor in astronomy. I sometimes [sing](https://academicalvillagepeople.com), host a [radio show](https://www.wxtj.fm) (wxtj.fm, 100.1 fm), [teach english](https://visasatuva.wordpress.com), and climb. I once did research on intron retention in HIV with the [Thaler Center](https://med.virginia.edu/thaler-center). I also once helped study fisher and marten populations in the Sierra Nevadas. I'd like to share some pictures I've taken with each post. This particular one was taken with the The Rapid Response Robotic Telescope (RRRT) at Fan Mountain. I don't recall what exactly it is and, unfortunately, I can't remember my login information to SkyNet. For now it shall be named Mysterious Messier Object
+![Mysterious Messier Object](/images/2020/01/M33(1).png)
+![Me](/images/2020/01/ProfilePic.jpg)
